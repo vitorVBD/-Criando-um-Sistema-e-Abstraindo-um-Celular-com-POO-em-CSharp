@@ -1,0 +1,14 @@
+C:\Aulas\terceiroDesafioCSharp\bin\Debug\net8.0\terceiroDesafioCSharp.exe
+C:\Aulas\terceiroDesafioCSharp\bin\Debug\net8.0\terceiroDesafioCSharp.deps.json
+C:\Aulas\terceiroDesafioCSharp\bin\Debug\net8.0\terceiroDesafioCSharp.runtimeconfig.json
+C:\Aulas\terceiroDesafioCSharp\bin\Debug\net8.0\terceiroDesafioCSharp.dll
+C:\Aulas\terceiroDesafioCSharp\bin\Debug\net8.0\terceiroDesafioCSharp.pdb
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.AssemblyInfoInputs.cache
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.AssemblyInfo.cs
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.csproj.CoreCompileInputs.cache
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.dll
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\refint\terceiroDesafioCSharp.dll
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.pdb
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\terceiroDesafioCSharp.genruntimeconfig.cache
+C:\Aulas\terceiroDesafioCSharp\obj\Debug\net8.0\ref\terceiroDesafioCSharp.dll
